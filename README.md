@@ -17,7 +17,7 @@ Criar um criar um Azure AI services resource atraves do portal https://portal.az
 
 ### Segunda etapa
 Conectar o Azure AI services resource criado anteriormente ao Vision Studio. 
-![Selecionar Resorce Criado](img/print4.png)
+
 Entrar  https://portal.vision.cognitive.azure.com , seleciionar como default resource o resource que foi criado, e depois clicar em Vision Studio.
 
 ### Terceira etapa
